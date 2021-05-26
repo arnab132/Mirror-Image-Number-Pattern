@@ -6,20 +6,5 @@ In geometry, the mirror image of an object or two-dimensional figure is the virt
 
 Here, we will learn how to print a Mirror image pattern in Java.
 
-The output of the Mirror image pattern will be as shown below.
 
-
-1 2 3 4 5 6 7 
- 2 3 4 5 6 7 
-  3 4 5 6 7 
-   4 5 6 7 
-    5 6 7 
-     6 7 
-      7 
-     6 7 
-    5 6 7 
-   4 5 6 7 
-  3 4 5 6 7 
- 2 3 4 5 6 7 
-1 2 3 4 5 6 7 
 
